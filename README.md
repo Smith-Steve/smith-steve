@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi There!
+
+My name is Steve, a full stack developer with a deep commitment to create and develop full stack applications.
 
 <!--
 **Smith-Steve/smith-steve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
