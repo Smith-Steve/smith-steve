@@ -21,19 +21,14 @@ few things things are as engrossing to me as the problems in making software wor
 ---
 
 ## I'm currently working on
-An appplication called "Drip-Email-System" which is designed to allow users to manage their e-mail campaigns but to make reciever's believe they are the targets of a specified individual e-mail campaign.
-
-<!--
-**Smith-Steve/smith-steve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
+An appplication called "Drip-Email-System" which is designed to allow users to manage their e-mail campaigns but to make reciever's believe they are the targets of a specific individual e-mail campaign from the sender.
 
 
+## 🌱 I’m currently learning ...
+All that I can.
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 How to reach me:
+[LinkedIn/Steve-Smith](https://www.linkedin.com/in/steve-smith1/) || [Steve.M.Smith.3@outlook.com](Steve.M.Smith.3@outlook.com)
+
+
