@@ -29,6 +29,6 @@ All that I can.
 
 
 - 📫 How to reach me:
-[LinkedIn/Steve-Smith](https://www.linkedin.com/in/steve-smith1/) || [Steve.M.Smith.3@outlook.com](Steve.M.Smith.3@outlook.com)
+[LinkedIn/Steve-Smith](https://www.linkedin.com/in/steve-smith1/) || [Steve.M.Smith.3@outlook.com](mailto:steve.m.smith.3@outlook.com)
 
 
