@@ -2,7 +2,18 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Smith-Steve&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
-I'm Steve Smith, 
+I'm Steve Smith, I'm a software developer based in California. A little bit about me as a software developer:
+
+- Node.js
+- JavaScript
+- React.js
+- CSS3
+- HTML5
+- PostgreSQL
+- MySQL
+- HTML5
+
+---
 
 <!--
 **Smith-Steve/smith-steve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
