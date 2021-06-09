@@ -28,7 +28,7 @@ An appplication called "Drip-Email-System" which is designed to allow users to m
 All that I can.
 
 
-- 📫 How to reach me:
+📫 How to reach me:
 [LinkedIn/Steve-Smith](https://www.linkedin.com/in/steve-smith1/) || [Steve.M.Smith.3@outlook.com](mailto:steve.m.smith.3@outlook.com)
 
 
