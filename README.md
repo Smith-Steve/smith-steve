@@ -1,5 +1,9 @@
 ### Hi There!
 
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Smith-Steve&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+
+I'm Steve Smith, 
+
 <!--
 **Smith-Steve/smith-steve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
