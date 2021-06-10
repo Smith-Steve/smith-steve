@@ -77,7 +77,8 @@ An appplication called "Drip-Email-System" which is designed to allow users to m
     </tr>
     <tr>
       <td>
-      </td>/
+        <img src="https://img.shields.io/badge/MySQL-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+      </td>
     </tr>
   </thead>
 </table>
