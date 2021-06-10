@@ -74,6 +74,12 @@ An appplication called "Drip-Email-System" which is designed to allow users to m
       <td>
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
       </td>
+      <td>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      </td>
     </tr>
   </thead>
 </table>
