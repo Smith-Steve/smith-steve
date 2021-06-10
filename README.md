@@ -34,6 +34,12 @@ An appplication called "Drip-Email-System" which is designed to allow users to m
     <td>
       <b> Technology </b>
     </td>
+        <td>
+      <b> Technology </b>
+    </td>
+        <td>
+      <b> Technology </b>
+    </td>
   </thead>
 </table>
 
