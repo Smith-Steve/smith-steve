@@ -80,7 +80,7 @@ An appplication called "Drip-Email-System" which is designed to allow users to m
         <img src="https://img.shields.io/badge/MySQL-1?style=for-the-badge&logo=MySQL&logoColor=black" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/MySQL-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-0078D4?style=for-the-badge&logo=Express.js&logoColor=white" />
       </td>
       <td>
         <img src="https://img.shields.io/badge/HTML5-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
