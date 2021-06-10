@@ -52,9 +52,6 @@ An appplication called "Drip-Email-System" which is designed to allow users to m
         <td>
       <b> Technology </b>
     </td>
-        <td>
-      <b> Technology </b>
-    </td>
     <tr>
       <td>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -77,9 +74,10 @@ An appplication called "Drip-Email-System" which is designed to allow users to m
       <td>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
       </td>
+    </tr>
+    <tr>
       <td>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      </td>
+      </td>/
     </tr>
   </thead>
 </table>
