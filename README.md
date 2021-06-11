@@ -35,7 +35,6 @@ An appplication called "Drip-Email-System" which is designed to allow users to m
       <b> Technology </b>
     </td>
         <td>
-
     </td>
         <td>
       <b> Technology </b>
