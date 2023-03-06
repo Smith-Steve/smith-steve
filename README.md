@@ -5,6 +5,7 @@
 I'm Steve Smith, I'm a software developer based in California. A little bit about me as a software developer:
 
 - Node.js
+- C#
 - JavaScript
 - React.js
 - CSS3
