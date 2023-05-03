@@ -22,9 +22,7 @@ few things things are as engrossing to me as the problems in making software wor
 ---
 
 ## I'm currently working on
-I have two main focuses right now. The first focus is to rewrite an application that I previously wrote in node.js into C#, adhering to best practices. The second is to learn about how to work with cloud based applications.
-
-An appplication called "Drip-Email-System" which is designed to allow users to manage their e-mail campaigns but to make reciever's believe they are the targets of a specific individual e-mail campaign from the sender.
+I am currently working on a CRM as I would like for a business that I would own. (5/2/2023)
 
 
 ## 📫 How to reach me:
