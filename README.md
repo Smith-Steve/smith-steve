@@ -22,7 +22,7 @@ few things things are as engrossing to me as the problems in making software wor
 ---
 
 ## I'm currently working on
-I am working on a simple 'sketch' CRM right now - as I think CRMs are overly complicated. (6/15/2023)
+I'm currently on working on a customizable, idiot friendly CRM.
 
 
 ## 📫 How to reach me:
