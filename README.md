@@ -26,7 +26,7 @@ I'm currently on working on a customizable, idiot friendly CRM.
 
 
 ## 📫 How to reach me:
-[LinkedIn/Steve-Smith](https://www.linkedin.com/in/steve-smith1/) || [Steve.M.Smith.3@outlook.com](mailto:steve.m.smith.3@outlook.com)
+[LinkedIn/Steve-Smith](https://www.linkedin.com/in/steve-smith1/) || [Steve.M.Smith.3@outlook.com](mailto:steve.m.smith.3@outlook.com) || [WakaTime](https://wakatime.com/@7c71aa87-d261-4650-ae26-1a3b0c64566f)
 
 ## Current Technologies
 
